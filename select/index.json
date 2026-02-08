@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君とのこと",
+  "base_artist": "セカンドバッカー",
+  "createdAt": "2026-02-08T11:29:08.230698Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君とのこと",
+      "artist": "セカンドバッカー",
+      "has_synced": false,
+      "path": "select/pl_01_君とのこと_セカンドバッカー.txt"
+    }
+  ]
+}
